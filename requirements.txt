@@ -1,0 +1,11 @@
+dash
+plotly
+pandas
+gunicorn
+EOFcd /workspaces/ipl-eda-analysis
+
+cat > requirements.txt << 'EOF'
+dash
+plotly
+pandas
+gunicorn
