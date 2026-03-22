@@ -2,7 +2,7 @@
 
 ![Dashboard Preview](screenshots/dashboard_overview.png)
 
-> **Live Dashboard →** [ipl-analytics-pro.onrender.com](https://ipl-analytics-pro.onrender.com)  
+> **Live Dashboard →** [ipl-eda-analysis-3.onrender.com](https://ipl-eda-analysis-3.onrender.com)  
 > A full-stack data analytics project built with Python, covering 13 IPL seasons (2008–2020), 816 matches, and 193,468 ball-by-ball deliveries.
 
 ---
